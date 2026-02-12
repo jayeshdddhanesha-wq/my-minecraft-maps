@@ -1,0 +1,30 @@
+[
+  {
+    "name": "One Block",
+    "maps": [
+      {
+        "title": "One Block Original",
+        "shortDescription": "Classic one block adventure",
+        "thumbnailUrl": "https://placehold.co/150/4CAF50/FFFFFF/png?text=One+Block",
+        "downloadUrl": "https://www.google.com"
+      },
+      {
+        "title": "Lucky One Block",
+        "shortDescription": "Random lucky loot every block",
+        "thumbnailUrl": "https://placehold.co/150/8BC34A/FFFFFF/png?text=Lucky",
+        "downloadUrl": "https://www.google.com"
+      }
+    ]
+  },
+  {
+    "name": "SkyBlock",
+    "maps": [
+      {
+        "title": "Classic SkyBlock",
+        "shortDescription": "Tiny floating island start",
+        "thumbnailUrl": "https://placehold.co/150/2196F3/FFFFFF/png?text=SkyBlock",
+        "downloadUrl": "https://www.google.com"
+      }
+    ]
+  }
+]
