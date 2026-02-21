@@ -19,32 +19,32 @@
       "shortDescription": "One block challenge but every block is giant-sized",
       "thumbnailUrl": "https://placehold.co/150/66BB6A/FFFFFF/png?text=Giant",
       "downloadUrl": "https://drive.google.com/uc?export=download&id=1zIvy4KOGeuH0FAUxZ-ShVPesu9BQ5ma-"
-},
-{
-  "title": "Ocean One Block",
-  "shortDescription": "Start on a single block surrounded by endless ocean",
-  "thumbnailUrl": "https://placehold.co/150/2196F3/FFFFFF/png?text=Ocean",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=1UVPJPwYeOjQJNBu7zJx-WKqgqhRsgq7R"
-},
+      },
+      {
+      "title": "Ocean One Block",
+      "shortDescription": "Start on a single block surrounded by endless ocean",
+      "thumbnailUrl": "https://placehold.co/150/2196F3/FFFFFF/png?text=Ocean",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1UVPJPwYeOjQJNBu7zJx-WKqgqhRsgq7R"
+      },
 
-{
-  "title": "Hardcore One Block",
-  "shortDescription": "No respawns – one life in the toughest one block challenge",
-  "thumbnailUrl": "https://placehold.co/150/F44336/FFFFFF/png?text=Hardcore",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=14e-cGkznd8hMqB5sUUYNoTP-Kq5wrabd"
-},
-{
-  "title": "Void One Block",
-  "shortDescription": "Pure void survival – only one regenerating block and nothing else",
-  "thumbnailUrl": "https://placehold.co/150/212121/FFFFFF/png?text=Void",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=1faACcT_6xTb2AlsDIFQXw-sI7m3vQ0Vu"
-},
-{
-  "title": "One Block Revenge",
-  "shortDescription": "Boss fights and intense combat in the one block world",
-  "thumbnailUrl": "https://placehold.co/150/673AB7/FFFFFF/png?text=Revenge",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=1MrKtZr-FjfqnKf91XANGr3i0RIeqHNyS"
-}
+      {
+      "title": "Hardcore One Block",
+      "shortDescription": "No respawns – one life in the toughest one block challenge",
+      "thumbnailUrl": "https://placehold.co/150/F44336/FFFFFF/png?text=Hardcore",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=14e-cGkznd8hMqB5sUUYNoTP-Kq5wrabd"
+    },
+    {
+      "title": "Void One Block",
+      "shortDescription": "Pure void survival – only one regenerating block and nothing else",
+      "thumbnailUrl": "https://placehold.co/150/212121/FFFFFF/png?text=Void",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1faACcT_6xTb2AlsDIFQXw-sI7m3vQ0Vu"
+    },
+    {
+      "title": "One Block Revenge",
+      "shortDescription": "Boss fights and intense combat in the one block world",
+      "thumbnailUrl": "https://placehold.co/150/673AB7/FFFFFF/png?text=Revenge",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1MrKtZr-FjfqnKf91XANGr3i0RIeqHNyS"
+    }
     ]
   },
   {
