@@ -132,4 +132,27 @@
     }
   ]
 }
+  {
+  "name": "Horror",
+  "maps": [
+    {
+      "title": "The Backrooms",
+      "shortDescription": "Endless maze of yellow rooms – no-clip into liminal horror",
+      "thumbnailUrl": "https://placehold.co/150/FDD835/212121/png?text=Backrooms",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZdJDs43ulM0tw47BMmjrzYy9amMiANC2"
+    },
+    {
+      "title": "Parasite Apocalypse",
+      "shortDescription": "Infected world overrun by parasites – survive the nightmare",
+      "thumbnailUrl": "https://placehold.co/150/2E7D32/FFFFFF/png?text=Parasite",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1ckBWQVAoy734Nps6RUPBl-ar5JgXlkNI"
+    },
+    {
+      "title": "Herobrine Chase",
+      "shortDescription": "Run from Herobrine in dark caves and haunted forests",
+      "thumbnailUrl": "https://placehold.co/150/212121/FFFFFF/png?text=Herobrine",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1hnWaJz0nL2Xm_Qr6Kmo64io6bFYzgUqd"
+    }
+  ]
+}
 ]
