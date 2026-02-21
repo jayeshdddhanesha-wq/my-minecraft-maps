@@ -47,7 +47,7 @@
     ]
   },
   {
-    "name": "SkyBlock",
+    "name": "SkyBlock1",
     "maps": [
       {
         "title": "Classic SkyBlock",
@@ -114,5 +114,5 @@
         "downloadUrl": "https://drive.google.com/uc?export=download&id=1zCeRUfRU6kJUEW_hKNJMlZio1Pc0BDRj"
       }
     ]
-  } 
+  }
 ]
