@@ -91,29 +91,6 @@
         "downloadUrl": "https://drive.google.com/uc?export=download&id=1dRkFcf5w-oVazHoLKL1cPswH3E4cmOBK"
       }
     ]
-  },
-  {
-    "name": "Survival Challenges",
-    "maps": [
-      {
-        "title": "One Chunk Survival",
-        "shortDescription": "Survive using only one chunk of the world – extreme resource limit",
-        "thumbnailUrl": "https://placehold.co/150/795548/FFFFFF/png?text=One+Chunk",
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1ieKsbfTrMKadtxrfrxVMZuIutS_9wbVu"
-      },
-      {
-        "title": "Cave Survival",
-        "shortDescription": "Start and survive trapped inside a single cave forever",
-        "thumbnailUrl": "https://placehold.co/150/607D8B/FFFFFF/png?text=Cave",
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1xvjhDsePsOW8vJZ0xxbuMDC8daDMeRD6"
-      },
-      {
-        "title": "Ultra Hardcore Island",
-        "shortDescription": "No natural health regen – survive on a tiny island in hardcore mode",
-        "thumbnailUrl": "https://placehold.co/150/F44336/FFFFFF/png?text=Ultra+Hard",
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1zCeRUfRU6kJUEW_hKNJMlZio1Pc0BDRj"
-      }
-    ]
   }
   
 ]
