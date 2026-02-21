@@ -114,5 +114,22 @@
       "downloadUrl": "https://drive.google.com/uc?export=download&id=1zCeRUfRU6kJUEW_hKNJMlZio1Pc0BDRj"
     }
   ]
+},
+  {
+  "name": "Parkour",
+  "maps": [
+    {
+      "title": "Aqua Parkour",
+      "shortDescription": "Water-themed parkour with jumps, slides, and aquatic obstacles",
+      "thumbnailUrl": "https://placehold.co/150/03A9F4/FFFFFF/png?text=Aqua+Parkour",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1sluTShDtBASg3Pl7j_9nEgpO-f4N3joM"
+    },
+    {
+      "title": "Tower Parkour",
+      "shortDescription": "Climb the massive tower with precision jumps and high falls",
+      "thumbnailUrl": "https://placehold.co/150/FF5722/FFFFFF/png?text=Tower+Parkour",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1WRaealeFxx6Qp4qqG_q9LWwy8CossPhr"
+    }
+  ]
 }
 ]
