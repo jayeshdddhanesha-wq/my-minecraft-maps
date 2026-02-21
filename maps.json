@@ -47,28 +47,28 @@
     ]
   },
   {
-  "name": "SkyBlock",
-  "maps": [
-    {
-      "title": "Classic SkyBlock",
-      "shortDescription": "Tiny floating island start with limited resources",
-      "thumbnailUrl": "https://placehold.co/150/2196F3/FFFFFF/png?text=Classic+Sky",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1rSh8Qldbi7AglbSDN0W_LHH5Aqi2fiWD"
-    },
-    {
-      "title": "Hardcore SkyBlock",
-      "shortDescription": "Extreme sky survival with no respawns",
-      "thumbnailUrl": "https://placehold.co/150/F44336/FFFFFF/png?text=Hardcore+Sky",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1Zc_EzqpQ9pa9_ddm3qPtaH3G9HuQEIjE"
-    },
-    {
-      "title": "Nether SkyBlock",
-      "shortDescription": "Sky island challenge starting in the Nether dimension",
-      "thumbnailUrl": "https://placehold.co/150/673AB7/FFFFFF/png?text=Nether+Sky",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1cLU7AWUIJ6r0WDUIOO2SsfqCl0vvUcbB"
-    }
-  ]
-},
+    "name": "SkyBlock",
+    "maps": [
+      {
+        "title": "Classic SkyBlock",
+        "shortDescription": "Tiny floating island start with limited resources",
+        "thumbnailUrl": "https://placehold.co/150/2196F3/FFFFFF/png?text=Classic+Sky",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1rSh8Qldbi7AglbSDN0W_LHH5Aqi2fiWD"
+      },
+      {
+        "title": "Hardcore SkyBlock",
+        "shortDescription": "Extreme sky survival with no respawns",
+        "thumbnailUrl": "https://placehold.co/150/F44336/FFFFFF/png?text=Hardcore+Sky",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1Zc_EzqpQ9pa9_ddm3qPtaH3G9HuQEIjE"
+      },
+      {
+        "title": "Nether SkyBlock",
+        "shortDescription": "Sky island challenge starting in the Nether dimension",
+        "thumbnailUrl": "https://placehold.co/150/673AB7/FFFFFF/png?text=Nether+Sky",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1cLU7AWUIJ6r0WDUIOO2SsfqCl0vvUcbB"
+      }
+    ]
+  },
   {
     "name": "Lucky Block",
     "maps": [
@@ -93,66 +93,66 @@
     ]
   },
   {
-  "name": "Survival Challenges",
-  "maps": [
-    {
-      "title": "One Chunk Survival",
-      "shortDescription": "Survive using only one chunk of the world – extreme resource limit",
-      "thumbnailUrl": "https://placehold.co/150/795548/FFFFFF/png?text=One+Chunk",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1ieKsbfTrMKadtxrfrxVMZuIutS_9wbVu"
-    },
-    {
-      "title": "Cave Survival",
-      "shortDescription": "Start and survive trapped inside a single cave forever",
-      "thumbnailUrl": "https://placehold.co/150/607D8B/FFFFFF/png?text=Cave",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1xvjhDsePsOW8vJZ0xxbuMDC8daDMeRD6"
-    },
-    {
-      "title": "Ultra Hardcore Island",
-      "shortDescription": "No natural health regen – survive on a tiny island in hardcore mode",
-      "thumbnailUrl": "https://placehold.co/150/F44336/FFFFFF/png?text=Ultra+Hard",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1zCeRUfRU6kJUEW_hKNJMlZio1Pc0BDRj"
-    }
-  ]
-},
+    "name": "Survival Challenges",
+    "maps": [
+      {
+        "title": "One Chunk Survival",
+        "shortDescription": "Survive using only one chunk of the world – extreme resource limit",
+        "thumbnailUrl": "https://placehold.co/150/795548/FFFFFF/png?text=One+Chunk",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1ieKsbfTrMKadtxrfrxVMZuIutS_9wbVu"
+      },
+      {
+        "title": "Cave Survival",
+        "shortDescription": "Start and survive trapped inside a single cave forever",
+        "thumbnailUrl": "https://placehold.co/150/607D8B/FFFFFF/png?text=Cave",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1xvjhDsePsOW8vJZ0xxbuMDC8daDMeRD6"
+      },
+      {
+        "title": "Ultra Hardcore Island",
+        "shortDescription": "No natural health regen – survive on a tiny island in hardcore mode",
+        "thumbnailUrl": "https://placehold.co/150/F44336/FFFFFF/png?text=Ultra+Hard",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1zCeRUfRU6kJUEW_hKNJMlZio1Pc0BDRj"
+      }
+    ]
+  },
   {
-  "name": "Parkour",
-  "maps": [
-    {
-      "title": "Aqua Parkour",
-      "shortDescription": "Water-themed parkour with jumps, slides, and aquatic obstacles",
-      "thumbnailUrl": "https://placehold.co/150/03A9F4/FFFFFF/png?text=Aqua+Parkour",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1sluTShDtBASg3Pl7j_9nEgpO-f4N3joM"
-    },
-    {
-      "title": "Tower Parkour",
-      "shortDescription": "Climb the massive tower with precision jumps and high falls",
-      "thumbnailUrl": "https://placehold.co/150/FF5722/FFFFFF/png?text=Tower+Parkour",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1WRaealeFxx6Qp4qqG_q9LWwy8CossPhr"
-    }
-  ]
-},
+    "name": "Parkour",
+    "maps": [
+      {
+        "title": "Aqua Parkour",
+        "shortDescription": "Water-themed parkour with jumps, slides, and aquatic obstacles",
+        "thumbnailUrl": "https://placehold.co/150/03A9F4/FFFFFF/png?text=Aqua+Parkour",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1sluTShDtBASg3Pl7j_9nEgpO-f4N3joM"
+      },
+      {
+        "title": "Tower Parkour",
+        "shortDescription": "Climb the massive tower with precision jumps and high falls",
+        "thumbnailUrl": "https://placehold.co/150/FF5722/FFFFFF/png?text=Tower+Parkour",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1WRaealeFxx6Qp4qqG_q9LWwy8CossPhr"
+      }
+    ]
+  },
   {
-  "name": "Horror",
-  "maps": [
-    {
-      "title": "The Backrooms",
-      "shortDescription": "Endless maze of yellow rooms – no-clip into liminal horror",
-      "thumbnailUrl": "https://placehold.co/150/FDD835/212121/png?text=Backrooms",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZdJDs43ulM0tw47BMmjrzYy9amMiANC2"
-    },
-    {
-      "title": "Parasite Apocalypse",
-      "shortDescription": "Infected world overrun by parasites – survive the nightmare",
-      "thumbnailUrl": "https://placehold.co/150/2E7D32/FFFFFF/png?text=Parasite",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1ckBWQVAoy734Nps6RUPBl-ar5JgXlkNI"
-    },
-    {
-      "title": "Herobrine Chase",
-      "shortDescription": "Run from Herobrine in dark caves and haunted forests",
-      "thumbnailUrl": "https://placehold.co/150/212121/FFFFFF/png?text=Herobrine",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1hnWaJz0nL2Xm_Qr6Kmo64io6bFYzgUqd"
-    }
-  ]
-}
+    "name": "Horror",
+    "maps": [
+      {
+        "title": "The Backrooms",
+        "shortDescription": "Endless maze of yellow rooms – no-clip into liminal horror",
+        "thumbnailUrl": "https://placehold.co/150/FDD835/212121/png?text=Backrooms",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZdJDs43ulM0tw47BMmjrzYy9amMiANC2"
+      },
+      {
+        "title": "Parasite Apocalypse",
+        "shortDescription": "Infected world overrun by parasites – survive the nightmare",
+        "thumbnailUrl": "https://placehold.co/150/2E7D32/FFFFFF/png?text=Parasite",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1ckBWQVAoy734Nps6RUPBl-ar5JgXlkNI"
+      },
+      {
+        "title": "Herobrine Chase",
+        "shortDescription": "Run from Herobrine in dark caves and haunted forests",
+        "thumbnailUrl": "https://placehold.co/150/212121/FFFFFF/png?text=Herobrine",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1hnWaJz0nL2Xm_Qr6Kmo64io6bFYzgUqd"
+      }
+    ]
+  }
 ]
