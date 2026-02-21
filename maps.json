@@ -46,28 +46,5 @@
       "downloadUrl": "https://drive.google.com/uc?export=download&id=1MrKtZr-FjfqnKf91XANGr3i0RIeqHNyS"
     }
     ]
-  },
-  {
-    "name": "SkyBlock",
-    "maps": [
-      {
-        "title": "Classic SkyBlock",
-        "shortDescription": "Tiny floating island start",
-        "thumbnailUrl": "https://placehold.co/150/2196F3/FFFFFF/png?text=SkyBlock",
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1rSh8Qldbi7AglbSDN0W_LHH5Aqi2fiWD"
-      },
-      {
-      "title": "Hardcore SkyBlock",
-      "shortDescription": "Extreme sky island with no respawns",
-      "thumbnailUrl": "https://placehold.co/150/F44336/FFFFFF/png?text=Hardcore",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1Zc_EzqpQ9pa9_ddm3qPtaH3G9HuQEIjE"
-      },
-      {
-      "title": "Nether SkyBlock",
-      "shortDescription": "Sky island in the Nether dimension",
-      "thumbnailUrl": "https://placehold.co/150/673AB7/FFFFFF/png?text=Nether",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1cLU7AWUIJ6r0WDUIOO2SsfqCl0vvUcbB"
-      }
-    ]
   }
 ]
