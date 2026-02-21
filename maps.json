@@ -69,28 +69,5 @@
       "downloadUrl": "https://drive.google.com/uc?export=download&id=1cLU7AWUIJ6r0WDUIOO2SsfqCl0vvUcbB"
       }
     ]
-  },
-  {
-    "name": "Lucky Block",
-    "maps": [
-      {
-        "title": "Lucky Block Sky",
-        "shortDescription": "Lucky blocks floating high in the sky with crazy surprises",
-        "thumbnailUrl": "https://placehold.co/150/FFEB3B/000000/png?text=Lucky+Sky",
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1ITGr2yPaTkxjTG4hhjXNBNj8_IIeaV0D"
-      },
-      {
-        "title": "Lucky Block Flat",
-        "shortDescription": "Infinite flat world filled with random lucky blocks",
-        "thumbnailUrl": "https://placehold.co/150/FFC107/000000/png?text=Lucky+Flat",
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1648uz23sVMd2MYuNyoeLD8lbrNwcIqm8"
-      },
-      {
-        "title": "Lucky Block One Block",
-        "shortDescription": "One block world where every block is a lucky block",
-        "thumbnailUrl": "https://placehold.co/150/FFEB3B/000000/png?text=Lucky+One",
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1dRkFcf5w-oVazHoLKL1cPswH3E4cmOBK"
-      }
-    ]
   }
 ]
