@@ -1,6 +1,6 @@
 [
   {
-    "name": "One Block1",
+    "name": "One Block",
     "maps": [
       {
         "title": "One Block Original",
@@ -47,7 +47,7 @@
     ]
   },
   {
-    "name": "SkyBlock1",
+    "name": "SkyBlock",
     "maps": [
       {
         "title": "Classic SkyBlock",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "name": "Lucky Block1",
+    "name": "Lucky Block",
     "maps": [
       {
         "title": "Lucky Block Sky",
@@ -116,7 +116,7 @@
     ]
   },
   {
-    "name": "Parkour1",
+    "name": "Parkour",
     "maps": [
       {
         "title": "Aqua Parkour",
