@@ -131,6 +131,23 @@
         "downloadUrl": "https://drive.google.com/uc?export=download&id=1WRaealeFxx6Qp4qqG_q9LWwy8CossPhr"
       }
     ]
+  },
+  {
+    "name": "Parkour",
+    "maps": [
+      {
+        "title": "Aqua Parkour",
+        "shortDescription": "Water-themed parkour with jumps, slides, and aquatic obstacles",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image5_1.jpeg",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1sluTShDtBASg3Pl7j_9nEgpO-f4N3joM"
+      },
+      {
+        "title": "Tower Parkour",
+        "shortDescription": "Climb the massive tower with precision jumps and high falls",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image5_2.jpeg",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1WRaealeFxx6Qp4qqG_q9LWwy8CossPhr"
+      }
+    ]
   }
   
 
