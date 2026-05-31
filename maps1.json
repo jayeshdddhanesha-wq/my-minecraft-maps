@@ -131,6 +131,53 @@
         "downloadUrl": "https://drive.google.com/uc?export=download&id=1WRaealeFxx6Qp4qqG_q9LWwy8CossPhr"
       }
     ]
+  },
+  {
+    "name": "Adventure Maps",
+    "maps": [
+      {
+        "title": "Only Up Suspense",
+        "shortDescription": "A thrilling vertical parkour adventure – climb high into the sky and don't look down!",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image6_1.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/6_1Only%20UP%20Suspence%20v1.3.mcworld"
+      },
+      {
+        "title": "SERP Pokedrock Addon",
+        "shortDescription": "Catch, train, and battle Pokémon directly inside your survival world with custom models and animations!",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image6_2.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/6_2SERPpokedrock.mcaddon"
+      },
+      {
+        "title": "Lucky Blocks Chunk Challenge",
+        "shortDescription": "Build your way from chunk to chunk and explore the skies with crazy lucky block surprises!",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image6_3.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/6_3Lucky%20Blocks%20Chunk%20Challenge%20-%20v1.2.mcworld"
+      },
+      {
+        "title": "Lucky Block Race",
+        "shortDescription": "Break the blocks for random item drops and race your friends to the finish line. Supports 4 players!",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image6_4.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/6_4Lucky-Block-Race-v1.1.mcworld"
+      },
+      {
+        "title": "Modern House Starter World",
+        "shortDescription": "Skip the grinding and start your survival inside a sleek, fully furnished luxury modern mansion!",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image6_5.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/6_5Modern%20House.mcworld"
+      },
+      {
+        "title": "Project Dropper OG",
+        "shortDescription": "Bring back the nostalgic feelings of classic Minecraft with this ultimate freefall obstacle challenge.",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image6_6.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/6_6Dropper%20OG.mcworld"
+      },
+      {
+        "title": "One Chunk: 100 Random Layers",
+        "shortDescription": "A unique survival challenge where every layer you mine down reveals a completely randomized structure layer.",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image6_7.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/6_7One%20Chunk%20with%20100%20fandom%20layers%20by%20DtA.mcworld"
+      }
+    ]
   }
   
 
