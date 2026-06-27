@@ -178,6 +178,41 @@
         "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/6_7One%20Chunk%20with%20100%20fandom%20layers%20by%20DtA.mcworld"
       }
     ]
+  },
+  {
+    "name": "Anime Universe",
+    "maps": [
+      {
+        "title": "One Piece (Anime)",
+        "shortDescription": "Set sail across the grand line! Master Haki, consume legendary Devil Fruits, and battle iconic pirates in your survival world.",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/image7_5.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/7_5One%20Piece%201.2.mcaddon"
+      },
+      {
+        "title": "The Ultimate Morph 2.0",
+        "shortDescription": "Transform into any mob or anime entity you defeat! Gain their unique abilities, health points, and combat traits.",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/image7_1.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/7_1The%20Ultimate%20Morph%20v2.5.mcaddon"
+      },
+      {
+        "title": "The Waifus Party",
+        "shortDescription": "Bring your favorite characters into your world! Interact, team up, and build the ultimate squad to join your survival adventures.",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/image7_2.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/7_2The%20Waifus%20Party%20V13.4.mcaddon"
+      },
+      {
+        "title": "Anime Box Addon",
+        "shortDescription": "Unbox massive power-ups! Features a lucky crate system packed with mythical gear and elements from various hit anime universes.",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/image7_3.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/7_3Anime%20Box%201.1.5.mcaddon"
+      },
+      {
+        "title": "One Punch Man Addon",
+        "shortDescription": "Become Saitama and obliterate hostile entities with a single punch. Includes Genos gear and custom combat animations.",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/7_4One%20punch%20man.mcpack",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/7_4One%20punch%20man.mcpack"
+      }
+    ]
   }
   
 
