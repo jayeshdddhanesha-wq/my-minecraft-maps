@@ -92,7 +92,7 @@
       }
     ]
   },
-{
+  {
     "name": "Survival Challenges",
     "maps": [
       {
@@ -213,7 +213,136 @@
         "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/Anime%20%26%20Superheroes/7_4One%20punch%20man.mcpack"
       }
     ]
+  },
+  {
+    "name": "Quality of Life",
+    "maps": [
+      {
+        "title": "Raiyon's Dynamic Lightning",
+        "shortDescription": "Adds dynamic lighting so torches, lanterns, and totems actually light up your surroundings as you carry them",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image19.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon19.mcaddon"
+      },
+      {
+        "title": "Effortless Building",
+        "shortDescription": "Place walls, floors, spheres, and cylinders instantly with fast multi-block building tools",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image20.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon20.mcaddon"
+      },
+      {
+        "title": "Easy Build",
+        "shortDescription": "Simplifies construction with quick block placement shortcuts for faster building",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image21.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon21.mcaddon"
+      },
+      {
+        "title": "Travel Backpacks",
+        "shortDescription": "Wearable backpacks that give you extra inventory space while exploring and mining",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image1.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon1.mcaddon"
+      },
+      {
+        "title": "Shareable Waypoints",
+        "shortDescription": "Set custom waypoints and share them with friends for easier navigation",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image2.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon2.mcpack"
+      },
+      {
+        "title": "Ender Storage",
+        "shortDescription": "Portable Ender-linked storage chest you can access from anywhere in your world",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image3.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon3.mcaddon"
+      },
+      {
+        "title": "Keystone",
+        "shortDescription": "All-in-one QoL bundle featuring Vein Miner, Tree Capitator, Dynamic Lights, and more",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image4.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon4.mcaddon"
+      },
+      {
+        "title": "Essential Utilities",
+        "shortDescription": "Combines Dynamic Light, Tree Capitator, RPG Health Bar, Vein Mining, and more into one addon",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image5.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon5.mcpack"
+      },
+      {
+        "title": "Survival Essentials Overhaul",
+        "shortDescription": "All-in-one survival package combining the best quality-of-life add-ons into a single collection",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image6.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon6.mcaddon"
+      },
+      {
+        "title": "Utilitas",
+        "shortDescription": "A collection of utility tools, upgrades, and quality-of-life blocks for easier survival",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image7.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon7.mcaddon"
+      },
+      {
+        "title": "Tree Capitator",
+        "shortDescription": "Chop down an entire tree in one hit instead of block by block",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image8.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon8.mcaddon"
+      },
+      {
+        "title": "Double Doors",
+        "shortDescription": "Open two doors at once by interacting with only one, works with all door types",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image9.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon9.mcpack"
+      },
+      {
+        "title": "Auto Totem Equipment",
+        "shortDescription": "Automatically equips a Totem of Undying into your offhand when it's empty",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image10.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon10.mcaddon"
+      },
+      {
+        "title": "Insta Auto Smelt",
+        "shortDescription": "Automatically smelts ores as you mine them, saving fuel and furnace time",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image11.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon11.mcpack"
+      },
+      {
+        "title": "Completify",
+        "shortDescription": "All-in-one FPS optimizer and quality-of-life pack that improves performance, visibility, and UI",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image12.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon12.mcpack"
+      },
+      {
+        "title": "Capytator — All-In-One",
+        "shortDescription": "Combines Tree Capitator, Vein Miner, Hammers, and more utility tools in one addon",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image13.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon13.mcaddon"
+      },
+      {
+        "title": "Common Sense",
+        "shortDescription": "Fixes odd vanilla gaps so items and mechanics work in more logical, useful ways",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image14.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon14.mcaddon"
+      },
+      {
+        "title": "Smart Storage Network",
+        "shortDescription": "Wireless storage network with auto-sort, quick-stack, and inventory search across chests",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image15.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon15.mcaddon"
+      },
+      {
+        "title": "Armored Elytra",
+        "shortDescription": "Combine your elytra and chestplate into one item so you can fly without losing armor",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image16.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon16.mcaddon"
+      },
+      {
+        "title": "More Build Range",
+        "shortDescription": "Place blocks from farther away using smart raycast logic, without switching to creative",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image17.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon17.mcaddon"
+      },
+      {
+        "title": "Farming Assistance",
+        "shortDescription": "Auto planters and farming tools that make growing and harvesting crops faster and easier",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image18.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon18.mcaddon"
+      }
+    ]
   }
-  
-
 ]
