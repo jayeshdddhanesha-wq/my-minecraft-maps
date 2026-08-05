@@ -43,6 +43,108 @@
         "shortDescription": "Boss fights and intense combat in the one block world",
         "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/image1_7.jpg",
         "downloadUrl": "https://drive.google.com/uc?export=download&id=1MrKtZr-FjfqnKf91XANGr3i0RIeqHNyS"
+      },
+      {
+        "title": "one block chaos cubed",
+        "shortDescription": "Randomized chaotic events and mob spawns turn every block into a wild surprise",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image1.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon1.mcworld"
+      },
+      {
+        "title": "Rainbow One Block",
+        "shortDescription": "A colorful twist on the classic challenge with rainbow-themed blocks and loot",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image2.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon2.mcworld"
+      },
+      {
+        "title": "Infinite One Block",
+        "shortDescription": "An endless one block world that keeps generating new layers forever",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image3.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon3.mcworld"
+      },
+      {
+        "title": "Infinite One Block Hardcore",
+        "shortDescription": "The infinite one block challenge with permadeath for extra difficulty",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image4.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon4.mcworld"
+      },
+      {
+        "title": "One Ocean Block",
+        "shortDescription": "Survive on a single block in the middle of an endless ocean, fishing and diving for resources",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image5.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon5.mcworld"
+      },
+      {
+        "title": "Hardcore Lucky Block Island",
+        "shortDescription": "A tiny island survival map fueled by random lucky block drops, no second chances",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image6.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon6.mcworld"
+      },
+      {
+        "title": "One Barrel Block",
+        "shortDescription": "One block challenge reimagined with barrels instead of the usual block, packed with loot",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image7.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon7.mcworld"
+      },
+      {
+        "title": "One Block by gavti",
+        "shortDescription": "A community-made take on the one block formula with its own unique progression",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image8.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon8.mcworld"
+      },
+      {
+        "title": "HardCore One Block",
+        "shortDescription": "The classic one block challenge with hardcore rules and no respawns",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image9.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon9.mcworld"
+      },
+      {
+        "title": "Muliplayer One Block",
+        "shortDescription": "A second hardcore one block variant with tougher survival rules",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image10.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon10.mcworld"
+      },
+      {
+        "title": "One Block in a StoneWorld",
+        "shortDescription": "Start on one block in an all-stone world, mining your way to a full base",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image11.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon11.mcworld"
+      },
+      {
+        "title": "One Block(Never Respawns)",
+        "shortDescription": "A punishing one block map where the block never regenerates once you're done with it",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image12.jpg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon12.mcworld"
+      },
+      {
+        "title": "Voidcraft",
+        "shortDescription": "Pure void survival starting from nothing but a single regenerating block",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image13.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon13.mcworld"
+      },
+      {
+        "title": "ONE SHULKER BOX",
+        "shortDescription": "Survive using only the loot that drops from a single shulker box instead of a block",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image14.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon14.mcworld"
+      },
+      {
+        "title": "Random OneBlock",
+        "shortDescription": "Every block break gives a completely random item or mob, keeping the run unpredictable",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image15.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon15.mcworld"
+      },
+      {
+        "title": "One Chunk Survival Map",
+        "shortDescription": "Survive and build within the limits of just a single chunk",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image16.png",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon16.mcworld"
+      },
+      {
+        "title": "One Block Wars Rising",
+        "shortDescription": "PvP-focused one block map where players battle for resources and survival",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_image17.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/oneblock/1_addon17.mcworld"
       }
     ]
   },
@@ -220,7 +322,7 @@
       {
         "title": "Raiyon's Dynamic Lightning",
         "shortDescription": "Adds dynamic lighting so torches, lanterns, and totems actually light up your surroundings as you carry them",
-        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image19.jpeg",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image19.jpg",
         "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon19.mcaddon"
       },
       {
@@ -250,13 +352,13 @@
       {
         "title": "Ender Storage",
         "shortDescription": "Portable Ender-linked storage chest you can access from anywhere in your world",
-        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image3.jpeg",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image3.jpg",
         "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon3.mcaddon"
       },
       {
         "title": "Keystone",
         "shortDescription": "All-in-one QoL bundle featuring Vein Miner, Tree Capitator, Dynamic Lights, and more",
-        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image4.jpeg",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image4.jpg",
         "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon4.mcaddon"
       },
       {
@@ -310,7 +412,7 @@
       {
         "title": "Capytator — All-In-One",
         "shortDescription": "Combines Tree Capitator, Vein Miner, Hammers, and more utility tools in one addon",
-        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image13.jpeg",
+        "thumbnailUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_image13.jpg",
         "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon13.mcaddon"
       },
       {
