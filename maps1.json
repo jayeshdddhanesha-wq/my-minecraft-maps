@@ -488,19 +488,19 @@
         "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat2_image1_1.jpg",
         "downloadUrl": "https://mcpeaddons.online/modernhouse/cat2_1Ultra_Redstone_Bunker_V3.mcworld"
       },
-{
+	{
         "title": "Ultimate Glass Underwater Dome Base",
         "shortDescription": "Breathe deep under the ocean waves inside this massive glass dome complex. It comes fully equipped with scenic ocean floor view rooms, crop farms, and sub-aquatic docking tunnels.",
         "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat2_image2_1.jpeg",
         "downloadUrl": "https://mcpeaddons.online/modernhouse/cat2_2ocean-world-pc.mcworld"
       },
-{
+	{
         "title": "Security Cameras",
         "shortDescription": "Protect your base from intruders with this functioning camera addon! Place monitors and route interactable security cameras around your world to keep an eye on your home from anywhere.",
         "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat2_image3_1.jpg",
         "downloadUrl": "https://mcpeaddons.online/modernhouse/cat2_3Security Cameras v4 by BONY162.mcaddon"
       },
-{
+	{
         "title": "Ultimate Iron Farm Starter Hardcore World",
         "shortDescription": "Skip the tedious item grind! Start your next survival game with a highly efficient, pre-configured iron golem farm that guarantees unlimited iron resources right from day one.",
         "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat2_image4_3.jpeg",
@@ -512,44 +512,6 @@
         "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat2_image5_1.jpg",
         "downloadUrl": "https://mcpeaddons.online/modernhouse/cat2_5Jungle Base.mcworld"
       }
-
-
-     ]
-  },
-	{
-    "name": "Themes and Aesthetics",
-    "maps": [
-      {
-        "title": "Sci-Fi DARK Spawn",
-        "shortDescription": "A stunning, dark cosmic lobby map perfect for servers or personal spawn points. Decorated with alien crystals, neon pathways, and sleek spaceship launchpads.",
-        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image1_2.jpg",
-        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_1Sci-Fi Dark Spawn - Kopie.mcworld"
-      },
-{
-        "title": "Void Lines Parkour Map",
-        "shortDescription": "Run across minimalist glowing lines floating high in an endless void. Put your speed, agility, and timing to the test in this clean, modern parkour challenge.",
-        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image2_1.jpg",
-        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_2Void Lines Parkour Map.mcworld"
-      },
-{
-        "title": "Desert Oasis City",
-        "shortDescription": "A sprawling Middle-Eastern inspired sand city nestled inside a grand oasis. Explore towering clay palaces, busy market street bazaars, and beautiful hidden date-palm rivers.",
-        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image3_1.png",
-        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_3Desert Oasis City.mcworld"
-      },
-{
-        "title": "Medieval Kingdom",
-        "shortDescription": "Step back in time into a beautiful fantasy realm. Features a massive central stone castle, working defensive drawbridges, a historic village market, and farmland outskirts.",
-        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image4_3.jpg",
-        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_4Medival_kingdom.mcworld"
-      },
-
-{
-        "title": "Cloud Valentine Hunt",
-        "shortDescription": "A romantic, dream-like aesthetic map featuring floating islands covered in deep pink cherry blossom petals. Hunt for hidden heart tokens scattered across the soft clouds.",
-        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image5_1.jpeg",
-        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_5Cloud Valentine Hunt 26.0.mcworld"
-      },
 
 
      ]
