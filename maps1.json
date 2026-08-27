@@ -552,6 +552,49 @@
 
 
      ]
+  },
+
+	{
+    "name": "Furniture & Decor",
+    "maps": [
+      {
+        "title": "Snowy Mountain House",
+        "shortDescription": "Escape to a cozy winter cabin map tucked high into the snowy mountains. Includes outdoor hot tubs, warming fireplaces, and floor-to-ceiling glass windows to watch the snow fall.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat5_image1_1.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat5_1Snowy Mountain House 1.0.1.mcworld"
+      },
+  {
+        "title": "FURNICRAFT",
+        "shortDescription": "One of the most famous furniture mods of all time! Injects over 50 brand-new fully interactive blocks like kitchen cabinets, plush sofas, pool tables, and modern toilets into your game.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat5_image2_2.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat5_2FURNICRAFT - Furniture  [R].mcpack"
+      },
+ {
+        "title": "Pet Furniture",
+        "shortDescription": "Pamper your pets! This addon brings cute dog houses, cat scratch posts, bird cages, custom pet beds, and food bowls to give your animal friends a comfortable home.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat5_image3_1.webp",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat5_3Pet Furniture WE 3.3.3 RP.mcpack"
+      },
+ {
+        "title": "Furniture-Block Decor",
+        "shortDescription": "Perfect for micro-builders. This decoration mod brings thousands of intricate, small custom design details like books, coffee mugs, wall clocks, and indoor potted plants to spice up shelves.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat5_image4_1.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat5_4furniture-block decor.mcaddon"
+      },
+ {
+        "title": "Modern Furniture",
+        "shortDescription": "Redecorate your space with minimalist luxury. Includes sleek aesthetic marble countertops, glass coffee tables, premium leather recliners, and modern ambient light bars.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat5_image5_1.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat5_5Modern Furniture WE 13.5 RP.mcpack"
+      },
+ {
+        "title": "Home Electronics Furniture",
+        "shortDescription": "Upgrade your world into the tech age. Introduces realistic widescreen smart TVs, desktop gaming rigs, glowing setups, laptop computers, and surround-sound music speakers.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat5_image6_2.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat5_6Home Electronics WE 2.3 RP.mcpack"
+      }
+
+     ]
   }
 
 
