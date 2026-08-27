@@ -446,5 +446,37 @@
         "downloadUrl": "https://mcpeaddons.online/maps_thumbnail/QualityofLife/8_addon18.mcaddon"
       }
     ]
+  },
+  {
+    "name": "Modern and Luxury",
+    "maps": [
+      {
+        "title": "Elite Billionaire Oceanside Mansion",
+        "shortDescription": "Live like royalty in this massive modern mansion built right on the ocean shore. Featuring multi-level infinity pools, private yacht docks, sleek modern bedrooms, and fully detailed luxury living rooms.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat1_image1_1.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat1_1Billionaire Mansion - v1.1.mcworld"
+      },
+	{
+        "title": "Ultimate Hardcore Survival",
+        "shortDescription": "Test your survival limits in this ultimate world map designed for hardcore enthusiasts. Start with tailored starter gear, unique biome layout adjustments, and hidden custom structures waiting to be conquered.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat1_image2_2.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat1_2Hardcore Survival.mcworld"
+      },
+	{
+        "title": "Ultra-Modern City Downtown",
+        "shortDescription": "Explore a dense urban metropolis featuring hyper-realistic skyscrapers, fully paved roads, traffic streetlights, and intricately furnished corporate penthouses.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat1_image3_1.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat1_3Ultra-Modern-House-Map-MCPE-1.21.mcworld"
+      },
+{
+        "title": "Futuristic Cyberpunk Street Block",
+        "shortDescription": "Immerse yourself in a glowing neon future. This detailed street block features cyberpunk architecture, high-tech signs, hidden back-alleys, and futuristic vehicle statues.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat1_image4_1.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat1_4a2a-futuristic-city.mcworld"
+      }
+
+
+
+     ]
   }
 ]
