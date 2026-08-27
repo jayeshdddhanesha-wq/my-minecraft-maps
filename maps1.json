@@ -553,25 +553,8 @@
 
 
      ]
-  },
-
-
-{
-    "name": "Mini-Games and Challenges",
-    "maps": [
-      {
-        "title": "Water Park Hunt",
-        "shortDescription": "Have fun under the sun! Slide down loop-de-loop water slides, swim in wave pools, and locate all the hidden trophies hidden around this grand summer resort map.",
-        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat4_image1_1.jpeg",
-        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat4_1Water Park Hunt 1.21.131.mcworld"
-      },
-  {
-        "title": "Web Hero",
-        "shortDescription": "Swing into action with this heroic game addon. Equips you with fully functional web shooters to swing through blocks, climb up walls, and battle iconic custom supervillains.",
-        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat4_image2_1.jpg",
-        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat4_2Spider-Man Add-on.mcaddon"
-      }
-
-     ]
   }
+
+
+
 ]
