@@ -613,6 +613,44 @@
       }
 
      ]
+  },
+	{
+    "name": "Themes and Aesthetics",
+    "maps": [
+      {
+        "title": "SciFi DARK Spawn",
+        "shortDescription": "A stunning, dark cosmic lobby map perfect for servers or personal spawn points. Decorated with alien crystals, neon pathways, and sleek spaceship launchpads.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image1_2.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_1Sci-Fi Dark Spawn - Kopie.mcworld"
+      },
+{
+        "title": "Void Lines Parkour Map",
+        "shortDescription": "Run across minimalist glowing lines floating high in an endless void. Put your speed, agility, and timing to the test in this clean, modern parkour challenge.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image2_1.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_2Void Lines Parkour Map.mcworld"
+      },
+{
+        "title": "Desert Oasis City",
+        "shortDescription": "A sprawling Middle-Eastern inspired sand city nestled inside a grand oasis. Explore towering clay palaces, busy market street bazaars, and beautiful hidden date-palm rivers.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image3_1.png",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_3Desert Oasis City.mcworld"
+      },
+{
+        "title": "Medieval Kingdom",
+        "shortDescription": "Step back in time into a beautiful fantasy realm. Features a massive central stone castle, working defensive drawbridges, a historic village market, and farmland outskirts.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image4_3.jpg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_4Medival_kingdom.mcworld"
+      },
+
+{
+        "title": "Cloud Valentine Hunt",
+        "shortDescription": "A romantic, dream-like aesthetic map featuring floating islands covered in deep pink cherry blossom petals. Hunt for hidden heart tokens scattered across the soft clouds.",
+        "thumbnailUrl": "https://mcpeaddons.online/modernhouse/cat3_image5_1.jpeg",
+        "downloadUrl": "https://mcpeaddons.online/modernhouse/cat3_5Cloud Valentine Hunt 26.0.mcworld"
+      },
+
+
+     ]
   }
 
 
